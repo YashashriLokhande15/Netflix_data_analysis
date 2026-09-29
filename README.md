@@ -52,6 +52,12 @@ The objective of this project is to analyze Netflix content and identify trends 
 
 The dashboard provides an interactive way to explore Netflix content and understand content distribution across different categories and countries.
 
+## Dataset Source
+
+The dataset was prepared and organized with the assistance of **ChatGPT** for educational and data analysis purposes.
+
+The data was then cleaned and prepared in Microsoft Excel and used to develop the Power BI dashboard.
+
 ## About Me
 
 Yashashri Lokhande
