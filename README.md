@@ -55,6 +55,7 @@ The dashboard provides an interactive way to explore Netflix content and underst
 ## About Me
 
 Yashashri Lokhande
+
 Data Analyst | Excel | Power BI | MySQL | Python | Data Analytics Enthusiast
 
 LinkedIn: https://www.linkedin.com/in/yashashri-lokhande-19b630425
